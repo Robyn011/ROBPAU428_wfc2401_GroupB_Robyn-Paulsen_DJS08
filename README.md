@@ -6,12 +6,6 @@ After cloning the repo, run `npm install` to install the dependencies
 
 Are you ready to get stuck into some React Router? For this challenge, you are required to code along with the lecturer from this lesson: [VanLife Project Bootstrapping](https://scrimba.com/learn/react/vanlife-project-bootstrapping-co8bc40b191eec875ecf00b23).
 
-For this challenge you are required to code along with the lecturer from this lesson: https://scrimba.com/learn/react/vanlife-project-bootstrapping-co8bc40b191eec875ecf00b23
-
-The starter code has all the CSS styling required for the project; you will just need to link the corresponding classes as you code along. Jump into the start code here: [GitHub Repository](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS08/tree/main).
-
-The focus for this project will be to understand routing and present your code. Along with your code, you will need to submit a recorded presentation talking through the presentation points included below.
-
 ## React Routing Presentation Talking Points
 
 For your recorded presentation, you will be discussing key concepts related to React Router, an essential tool for building single-page applications. To illustrate your understanding, address the following three questions in your presentation. These questions are designed to test your knowledge of the content from the "Advanced React Routing" Van Life Project, including setup, functionality, and application of React Router.
